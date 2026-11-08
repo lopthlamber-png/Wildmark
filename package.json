@@ -1,0 +1,8 @@
+{
+  "name": "wildmark-relay",
+  "version": "1.0.0",
+  "main": "relay_server.js",
+  "scripts": { "start": "node relay_server.js" },
+  "dependencies": { "ws": "^8.18.0" },
+  "engines": { "node": ">=18" }
+}
